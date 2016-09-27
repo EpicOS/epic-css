@@ -1,0 +1,10 @@
+.center-image-80 {
+  display:block;
+  margin:auto;
+  width:80%;
+}
+
+.container {
+  max-width: 960px;
+  margin:auto;
+}
